@@ -1,0 +1,11 @@
+Flask==0.12.2
+google-cloud-datastore==1.4.0
+google-cloud-storage==1.6.0
+gunicorn==19.7.1
+oauth2client==4.1.2
+Flask-SQLAlchemy==2.3.2
+PyMySQL==0.8.0
+six==1.11.0
+pandas==0.22.0
+scikit-learn>=0.19.1
+scipy>=0.15.1
